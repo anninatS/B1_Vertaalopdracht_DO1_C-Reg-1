@@ -134,8 +134,9 @@ namespace CSharpReg
             Console.WriteLine("============================");
         }
 
-        static void Arya() {
-            console.log("Hello world")
+        static void stan()
+        {
+            Console.WriteLine("Hi mom I love you");
         }
     }
 }
